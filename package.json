@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-docker-template",
+  "version": "1.0.0",
+  "description": "Simple docker template for a nodejs project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "carmelolg",
+  "license": "MIT"
+}
